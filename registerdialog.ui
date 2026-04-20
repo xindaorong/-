@@ -174,7 +174,7 @@ QPushButton:pressed { background-color: #242831; }</string>
           </widget>
          </item>
          <item>
-          <widget class="QLineEdit" name="email_edit_2"/>
+          <widget class="QLineEdit" name="email_edit"/>
          </item>
         </layout>
        </item>
@@ -246,7 +246,7 @@ QPushButton:pressed { background-color: #242831; }</string>
           <widget class="QLineEdit" name="verify_edit_5"/>
          </item>
          <item>
-          <widget class="QPushButton" name="getButton">
+          <widget class="QPushButton" name="get_code">
            <property name="minimumSize">
             <size>
              <width>92</width>
